@@ -19,6 +19,6 @@ RED : invalid input (e.g. too long input or instead of integer you enter type-in
 GREEN : You guessed the number correctly. Congrats for that!<br>
 WHITE : Rest text (including crash-reports (exceptions) IF ANY)<br>
 
-# App
-Go to bin/VSProj.exe and run it after download. Happy gaming ^_^
+##### App
+Go to [bin/VSProj.exe](https://github.com/gaurav-kabra-official/Guess-The-Number/blob/master/bin/Debug/netcoreapp3.1/CSProj.exe) and run it after download. Happy gaming ^_^
 
