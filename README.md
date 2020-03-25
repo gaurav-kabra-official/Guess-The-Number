@@ -1,4 +1,4 @@
-# Author: [Gaurav Kabra](gauravkabra.official@gmail.com)
+# Author: [Gaurav Kabra](https://www.quora.com/profile/Gaurav-Kabra-23)
 
 # Run these commands in VSCode terminal:
 <br>
