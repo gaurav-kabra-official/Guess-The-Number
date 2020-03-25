@@ -14,8 +14,8 @@ Once you guess it correct OR you run out of lives<br>
 you will be asked to continue. <br>
 Pressing any key other than Y or y will result in closing of game immediately.
 ### Note:   
-Throughout game, colors on console mean something:
-RED : invalid input (e.g. too long input or instead of integer you enter type-inconsistent value) OR you are left with final life!
-GREEN : You guessed the number correctly. Congrats for that!
-WHITE : Rest text (including crash-reports (exceptions))
+Throughout game, colors on console mean something:<br>
+RED : invalid input (e.g. too long input or instead of integer you enter type-inconsistent value) OR you are left with final life!<br>
+GREEN : You guessed the number correctly. Congrats for that!<br>
+WHITE : Rest text (including crash-reports (exceptions))<br>
 
