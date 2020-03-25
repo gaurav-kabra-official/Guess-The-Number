@@ -1,0 +1,11 @@
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.exe
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.deps.json
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.runtimeconfig.json
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.runtimeconfig.dev.json
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.dll
+C:\Users\gaura\OneDrive\Desktop\CSProj\bin\Debug\netcoreapp3.1\CSProj.pdb
+C:\Users\gaura\OneDrive\Desktop\CSProj\obj\Debug\netcoreapp3.1\CSProj.csprojAssemblyReference.cache
+C:\Users\gaura\OneDrive\Desktop\CSProj\obj\Debug\netcoreapp3.1\CSProj.AssemblyInfoInputs.cache
+C:\Users\gaura\OneDrive\Desktop\CSProj\obj\Debug\netcoreapp3.1\CSProj.AssemblyInfo.cs
+C:\Users\gaura\OneDrive\Desktop\CSProj\obj\Debug\netcoreapp3.1\CSProj.dll
+C:\Users\gaura\OneDrive\Desktop\CSProj\obj\Debug\netcoreapp3.1\CSProj.pdb
