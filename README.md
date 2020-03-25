@@ -17,5 +17,8 @@ Pressing any key other than Y or y will result in closing of game immediately.
 Throughout game, colors on console mean something:<br>
 RED : invalid input (e.g. too long input or instead of integer you enter type-inconsistent value) OR you are left with final life!<br>
 GREEN : You guessed the number correctly. Congrats for that!<br>
-WHITE : Rest text (including crash-reports (exceptions))<br>
+WHITE : Rest text (including crash-reports (exceptions) IF ANY)<br>
+
+# App
+Go to bin/VSProj.exe and run it after download. Happy gaming ^_^
 
